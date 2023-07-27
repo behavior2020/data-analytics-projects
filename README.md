@@ -1,4 +1,4 @@
-# python
+# Data Analysis
 
 Welcome to my GitHub Data Analysis page! Here, you'll find an extensive showcase of my Python & SQL projects, demonstrating my capabilities in tackling real-world data problems. The projects range from survey data analysis and stock market evaluations to comprehensive sales data investigations.
 
